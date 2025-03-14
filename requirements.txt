@@ -1,0 +1,6 @@
+# Python 3.11
+matplotlib==3.8.0
+osmnx==2.0.1
+dataframe_image==0.2.7
+imageio==2.37.0
+jupyter==1.1.1
